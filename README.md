@@ -15,7 +15,7 @@
 
 ## Resumen
 
-¡Hola! Soy Ingeniero, Científico de Datos con experiencia en el análisis y procesamiento de datos para obtener información valiosa. Mi objetivo es aplicar mis habilidades y conocimientos en el área para resolver problemas y tomar decisiones basadas en datos.
+¡Hola! Soy Ingeniero, científico de datos con experiencia en el análisis y procesamiento de datos para obtener información valiosa. Mi objetivo es aplicar mis habilidades y conocimientos en el área para resolver problemas y tomar decisiones basadas en datos.
 
 
 ## Experiencia
