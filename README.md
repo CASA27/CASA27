@@ -3,7 +3,7 @@
 ## Información Personal
 
 - **Nombre:** Carlos Ernesto Sanchez Vidal
-- **Ubicación:** Colombia]
+- **Ubicación:** Colombia
 - **Correo electrónico:** caersa@gmail.com
 - **GitHub:** https://github.com/CASA27
 - **LinkedIn:** www.linkedin.com/in/carlossanchez27
