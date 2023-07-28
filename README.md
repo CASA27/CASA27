@@ -1,10 +1,8 @@
 
 <!-- Coloca la URL directa de tu imagen en el enlace de abajo -->
 <p align="center">
-    <img src="[URL_DE_TU_IMAGEN](https://static3.bigstockphoto.com/5/9/2/large1500/295387645.jpg)" alt="Banner con tu foto">
+    <img src= https://static3.bigstockphoto.com/5/9/2/large1500/295387645.jpg)
 </p>
-
-
 
 
 # Científico de Datos
