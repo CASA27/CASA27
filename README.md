@@ -1,7 +1,7 @@
 
 <!-- Coloca la URL directa de tu imagen en el enlace de abajo -->
 <p align="center">
-    <img src="https://www.unir.net/wp-content/uploads/2021/04/210419_img_ficha_web.jpg" style="max-width: 500px;">
+    <img src="https://wallpaperaccess.com/full/3079611.jpg" style="max-width: 500px;">
 </p>
 
 
