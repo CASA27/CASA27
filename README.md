@@ -1,7 +1,7 @@
 
 <!-- Coloca la URL directa de tu imagen en el enlace de abajo -->
 <p align="center">
-    <img src="https://cdn.futura-sciences.com/buildsv6/images/wide1920/9/5/0/950321c11d_50173256_data-science-1.jpg" alt="Banner con tu foto" style="max-width: 500px;">
+    <img src="https://www.inesem.es/sites/default/files/imgCategoria/41_Analisisd-e-datos.jpg" alt="Banner con tu foto" style="max-width: 500px;">
 </p>
 
 
