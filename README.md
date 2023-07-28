@@ -1,7 +1,7 @@
 
 <!-- Coloca la URL directa de tu imagen en el enlace de abajo -->
 <p align="center">
-    <img src="https://www.kienyke.com/sites/default/files/styles/interna_destacada_s/public/wp-content/uploads/2017/06/Analisis-de-datos.png?itok=OVIp35gk" alt="Banner con tu foto" style="max-width: 500px;">
+    <img src="https://www.unir.net/wp-content/uploads/2021/04/210419_img_ficha_web.jpg" style="max-width: 500px;">
 </p>
 
 
