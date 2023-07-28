@@ -1,13 +1,9 @@
-
 <!-- Coloca la URL directa de tu imagen en el enlace de abajo -->
 <p align="center">
     <img src="https://www.inesem.es/sites/default/files/imgCategoria/41_Analisisd-e-datos.jpg" alt="Banner con tu foto">
 </p>
 
-
-
 # Científico de Datos
-
 
 ## Información Personal
 
