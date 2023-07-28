@@ -15,27 +15,7 @@
 
 ## Resumen
 
-¡Hola! Soy Ingeniero, científico de datos con experiencia en el análisis y procesamiento de datos para obtener información valiosa. Mi objetivo es aplicar mis habilidades y conocimientos en el área para resolver problemas y tomar decisiones basadas en datos.
-
-
-## Experiencia
-
-### Ingeniero de Proyectos. C&W Networks (08/2013 - 08/2021)
-
-- Optimización de la infraestructura de red mediante análisis de datos y machine learning.
--
- Implementación de un sistema de supervisión proactiva con sensores y algoritmos de detección de anomalías, mejorando la calidad del servicio para los clientes.
-- Análisis de rendimiento y capacidad de la red para identificar cuellos de botella y mejorar la velocidad de transferencia de datos.
-- Logro de una disponibilidad del 99,9% para 300 usuarios mediante técnicas de tolerancia a fallos respaldadas por análisis de datos.
-- Utilización de algoritmos y modelos predictivos para detectar fallos potenciales en la infraestructura de red y tomar medidas preventivas, asegurando la continuidad del servicio.
-
-## Educación
-
-### Ingeniero Fisico, Universidad del Cauca (2006)
-
-### Especialista en Redes y Servicios Telematicos, Universidad del Cauca (2009)
-
-### Bootcamp, Ciencia de Datos, + 800 hrs, Henry (2023)
+¡Hola! Soy Ingeniero, con experiencia en el análisis y procesamiento de datos para obtener información valiosa. Mi objetivo es aplicar mis habilidades y conocimientos en el área para resolver problemas y tomar decisiones basadas en datos.
 
 ## Habilidades
 
