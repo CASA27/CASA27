@@ -8,10 +8,8 @@
 ## Información Personal
 
 - **Nombre:** Carlos Ernesto Sanchez Vidal
-- **Ubicación:**
- Colombia
+- **Ubicación:** Colombia
 - **Correo electrónico:** caersa@gmail.com
-
 - **GitHub:** https://github.com/CASA27
 - **LinkedIn:** www.linkedin.com/in/carlossanchez27
 
@@ -25,7 +23,8 @@
 ### Ingeniero de Proyectos. C&W Networks (08/2013 - 08/2021)
 
 - Optimización de la infraestructura de red mediante análisis de datos y machine learning.
-- Implementación de un sistema de supervisión proactiva con sensores y algoritmos de detección de anomalías, mejorando la calidad del servicio para los clientes.
+-
+ Implementación de un sistema de supervisión proactiva con sensores y algoritmos de detección de anomalías, mejorando la calidad del servicio para los clientes.
 - Análisis de rendimiento y capacidad de la red para identificar cuellos de botella y mejorar la velocidad de transferencia de datos.
 - Logro de una disponibilidad del 99,9% para 300 usuarios mediante técnicas de tolerancia a fallos respaldadas por análisis de datos.
 - Utilización de algoritmos y modelos predictivos para detectar fallos potenciales en la infraestructura de red y tomar medidas preventivas, asegurando la continuidad del servicio.
