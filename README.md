@@ -1,7 +1,7 @@
 
 <!-- Coloca la URL directa de tu imagen en el enlace de abajo -->
 <p align="center">
-    <img src="https://static3.bigstockphoto.com/5/9/2/large1500/295387645.jpg" alt="Banner con tu foto">
+    <img src="https://static3.bigstockphoto.com/5/9/2/large1500/295387645.jpg" alt="Banner con tu foto" style="max-width: 500px;">
 </p>
 
 
@@ -20,6 +20,7 @@
 ## Resumen
 
 ¡Hola! Soy Ingeniero, Científico de Datos con experiencia en el análisis y procesamiento de datos para obtener información valiosa. Mi objetivo es aplicar mis habilidades y conocimientos en el área para resolver problemas y tomar decisiones basadas en datos.
+
 
 ## Experiencia
 
