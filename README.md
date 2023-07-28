@@ -45,10 +45,6 @@
 
 - Certificación en python, Cisco Networking Academy (2023)
 
-## Proyectos Open Source
-
-Contribuyo en mi tiempo libre a proyectos de código abierto relacionados con la ciencia de datos y aprendizaje automático. Puedes encontrar mis contribuciones en mi perfil de GitHub.
-
 ¡Gracias por visitar mi perfil! No dudes en contactarme si deseas colaborar en proyectos interesantes o si tienes alguna pregunta relacionada con la ciencia de datos.
 
 
