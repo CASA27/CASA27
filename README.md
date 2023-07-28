@@ -14,7 +14,7 @@
 
 ## Experiencia
 
-### Ingeniero de Proyectos. C&w Networks (08/2013 - 08/2021)
+### Ingeniero de Proyectos. C&W Networks (08/2013 - 08/2021)
 
 - Optimización de la infraestructura de red mediante análisis de datos y machine learning.
 - Implementación de un sistema de supervisión proactiva con sensores y algoritmos de detección de anomalías, mejorando la calidad del servicio para los clientes.
