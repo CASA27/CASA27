@@ -1,7 +1,7 @@
 
 <!-- Coloca la URL directa de tu imagen en el enlace de abajo -->
 <p align="center">
-    <img src="https://www.inesem.es/sites/default/files/imgCategoria/41_Analisisd-e-datos.jpg" alt="Banner con tu foto" style="max-width: 500px;">
+    <img src="https://www.kienyke.com/sites/default/files/styles/interna_destacada_s/public/wp-content/uploads/2017/06/Analisis-de-datos.png?itok=OVIp35gk" alt="Banner con tu foto" style="max-width: 500px;">
 </p>
 
 
