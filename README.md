@@ -1,7 +1,7 @@
 
 <!-- Coloca la URL directa de tu imagen en el enlace de abajo -->
 <p align="center">
-    <img src="https://universidadmexicana.mx/img/article/ciencia-de-datos-donde-estudiar-una-carrera-en-linea" alt="Banner con tu foto">
+    <img src="https://cdn.futura-sciences.com/buildsv6/images/wide1920/9/5/0/950321c11d_50173256_data-science-1.jpg" alt="Banner con tu foto">
 </p>
 
 
