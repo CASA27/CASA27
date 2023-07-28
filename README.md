@@ -1,16 +1,67 @@
-### Hi there 👋
+# Científico de Datos
 
-<!--
-**CASA27/CASA27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Información Personal
 
-Here are some ideas to get you started:
+- **Nombre:** Carlos Ernesto Sanchez Vidal
+- **Ubicación:** Colombia]
+- **Correo electrónico:** caersa@gmail.com
+- **GitHub:** [https://github.com/CASA27])
+- **LinkedIn:** [www.linkedin.com/in/carlossanchez27]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Resumen
+
+¡Hola! Soy Ingeniero, Científico de Datos con experiencia en el análisis y procesamiento de datos para obtener información valiosa. Mi objetivo es aplicar mis habilidades y conocimientos en el área para resolver problemas y tomar decisiones basadas en datos.
+
+## Experiencia
+
+### Ingeniero de Proyectos. C&w Networks (08/2013 - 08/2021)
+
+- Optimización de la infraestructura de red mediante análisis de datos y machine learning.
+- Implementación de un sistema de supervisión proactiva con sensores y algoritmos de detección de anomalías, mejorando la calidad del servicio para los clientes.
+- Análisis de rendimiento y capacidad de la red para identificar cuellos de botella y mejorar la velocidad de transferencia de datos.
+- Logro de una disponibilidad del 99,9% para 300 usuarios mediante técnicas de tolerancia a fallos respaldadas por análisis de datos.
+- Utilización de algoritmos y modelos predictivos para detectar fallos potenciales en la infraestructura de red y tomar medidas preventivas, asegurando la continuidad del servicio.
+
+## Educación
+
+### Bootcamp en Ciencia de Datos, Henry (2023)
+
+### Especialista en Redes y Servicios Telematicos, Universidad del Cauca (2009)
+
+### Ingeniero Fisico, Universidad del Cauca (2006)
+
+## Habilidades
+
+- Análisis de datos con Python.
+- Machine Learning: Modelos de clasificación, regresión y agrupamiento.
+- Herramientas de visualización de datos: Matplotlib, Seaborn, Plotly.
+- Bases de datos y SQL.
+- Limpieza y preprocesamiento de datos.
+- ETL
+- Power BI.
+- Cloud
+- Telecomuicaciones
+
+## Proyectos Destacados
+
+- **Análisis de Accidentes Aéreos :** Análisis de accidentes aéreos históricos para mejorar la seguridad y prevenir futuros incidentes en la aviación.
+
+- **Sistema de Recomendación de Películas:** Desarrollo de funciones especializadas y entrenamiento de modelo de Machine Learning. Creación de una aplicación intuitiva y despliegue en entorno de producción para usuarios de plataformas de streaming.
+
+
+## Idiomas
+
+- Español: Nativo
+- Inglés: Intermedio
+
+## Certificaciones
+
+- Certificación en python, Cisco Networking Academy (2023)
+
+## Proyectos Open Source
+
+Contribuyo en mi tiempo libre a proyectos de código abierto relacionados con la ciencia de datos y aprendizaje automático. Puedes encontrar mis contribuciones en mi perfil de GitHub.
+
+¡Gracias por visitar mi perfil! No dudes en contactarme si deseas colaborar en proyectos interesantes o si tienes alguna pregunta relacionada con la ciencia de datos.
+
+
