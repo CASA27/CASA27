@@ -1,7 +1,7 @@
 
 <!-- Coloca la URL directa de tu imagen en el enlace de abajo -->
 <p align="center">
-    <img src="https://wallpaperaccess.com/full/3079611.jpg" alt="Banner con tu foto" width="600" height="200">
+    <img src="https://static3.bigstockphoto.com/5/9/2/large1500/295387645.jpg" alt="Banner con tu foto" width="600" height="200">
 </p>
 
 
@@ -11,7 +11,8 @@
 ## Información Personal
 
 - **Nombre:** Carlos Ernesto Sanchez Vidal
-- **Ubicación:** Colombia
+- **Ubicación:**
+ Colombia
 - **Correo electrónico:** caersa@gmail.com
 
 - **GitHub:** https://github.com/CASA27
