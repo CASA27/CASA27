@@ -29,7 +29,7 @@
 
 ### Especialista en Redes y Servicios Telematicos, Universidad del Cauca (2009)
 
-### Bootcamp, Ciencia de Datos, + 800 Henry (2023)
+### Bootcamp, Ciencia de Datos, + 800 hrs Henry (2023)
 
 ## Habilidades
 
@@ -42,6 +42,7 @@
 - Power BI.
 - Cloud
 - Telecomuicaciones
+
 
 ## Proyectos Destacados
 
