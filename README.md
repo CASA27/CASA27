@@ -1,7 +1,7 @@
 
 <!-- Coloca la URL directa de tu imagen en el enlace de abajo -->
 <p align="center">
-    <img src="https://wallpaperaccess.com/full/3079611.jpg" alt="Banner con tu foto" style="height: 200px;">
+    <img src="https://wallpaperaccess.com/full/3079611.jpg" alt="Banner con tu foto" width="600" height="200">
 </p>
 
 
