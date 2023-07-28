@@ -1,5 +1,6 @@
 # Científico de Datos
 
+
 ## Información Personal
 
 - **Nombre:** Carlos Ernesto Sanchez Vidal
@@ -24,11 +25,11 @@
 
 ## Educación
 
-### Bootcamp en Ciencia de Datos, Henry (2023)
+### Ingeniero Fisico, Universidad del Cauca (2006)
 
 ### Especialista en Redes y Servicios Telematicos, Universidad del Cauca (2009)
 
-### Ingeniero Fisico, Universidad del Cauca (2006)
+### Bootcamp, Ciencia de Datos, + 800 Henry (2023)
 
 ## Habilidades
 
@@ -47,7 +48,6 @@
 - **Análisis de Accidentes Aéreos :** Análisis de accidentes aéreos históricos para mejorar la seguridad y prevenir futuros incidentes en la aviación.
 
 - **Sistema de Recomendación de Películas:** Desarrollo de funciones especializadas y entrenamiento de modelo de Machine Learning. Creación de una aplicación intuitiva y despliegue en entorno de producción para usuarios de plataformas de streaming.
-
 
 ## Idiomas
 
