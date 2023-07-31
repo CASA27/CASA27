@@ -31,7 +31,7 @@
 - Cloud
 - Telecomuicaciones
   
-<img src="https://jahazielponce.com/wp-content/uploads/python.png" alt="Python Logo" width="100" height="50"><img src="https://www.hostingseguro.co/media/site/images/mysql-logo900.jpg" alt="Python Logo" width="100" height="50"
+<img src="https://jahazielponce.com/wp-content/uploads/python.png" alt="Python Logo" width="100" height="50"><img src="https://www.hostingseguro.co/media/site/images/mysql-logo900.jpg" alt="Python Logo" width="100" height="50">
 <img src="https://khamsat.hsoubcdn.com/images/services/1746468/e6761537e512e9bea8ce3cdb6c584002.jpg" alt="Python Logo" width="100" height="50">
 
 ## Proyectos Destacados
