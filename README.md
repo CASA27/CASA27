@@ -1,6 +1,6 @@
 <!-- Coloca la URL directa de tu imagen en el enlace de abajo -->
 <p align="center">
-    <img src="https://www.inesem.es/sites/default/files/imgCategoria/41_Analisisd-e-datos.jpg" alt="Banner con tu foto">
+    <img src="https://faltanescuelasencaba.files.wordpress.com/2017/06/machine-learning-2000x600.jpg" alt="Banner con tu foto">
 </p>
 
 # Científico de Datos
