@@ -29,7 +29,7 @@
 - Cloud
 - Telecomuicaciones
 - <img src="https://jahazielponce.com/wp-content/uploads/python.png" alt="Python Logo" width="100" height="50">
-![Python Logo](https://www.hostingseguro.co/media/site/images/mysql-logo900.jpg)
+<img src="https://www.hostingseguro.co/media/site/images/mysql-logo900.jpg" alt="Python Logo" width="100" height="50">
 
 ## Proyectos Destacados
 
