@@ -1,4 +1,5 @@
 <!-- Coloca la URL directa de tu imagen en el enlace de abajo -->
+
 <p align="center">
     <img src="https://faltanescuelasencaba.files.wordpress.com/2017/06/machine-learning-2000x600.jpg" alt="Banner con tu foto">
 </p>
@@ -29,7 +30,7 @@
 - Cloud
 - Telecomuicaciones
   
-<img src="https://jahazielponce.com/wp-content/uploads/python.png" alt="Python Logo" width="100" height="50"><img src="https://www.hostingseguro.co/media/site/images/mysql-logo900.jpg" alt="Python Logo" width="100" height="50">
+<img src="https://jahazielponce.com/wp-content/uploads/python.png" alt="Python Logo" width="100" height="50"><img src="https://www.hostingseguro.co/media/site/images/mysql-logo900.jpg" alt="Python Logo" width="100" height="50"><img src="https://eucariota.eu/wp-content/uploads/2020/01/PowerBI.jpg" alt="Python Logo" width="100" height="50">
 
 ## Proyectos Destacados
 
