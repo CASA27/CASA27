@@ -28,6 +28,7 @@
 - Power BI.
 - Cloud
 - Telecomuicaciones
+- ![Python Logo](https://jahazielponce.com/wp-content/uploads/python.png)
 
 
 ## Proyectos Destacados
