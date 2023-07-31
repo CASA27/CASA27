@@ -28,7 +28,7 @@
 - Power BI.
 - Cloud
 - Telecomuicaciones
-- ![Python Logo](https://jahazielponce.com/wp-content/uploads/python.png)
+- <img src="https://jahazielponce.com/wp-content/uploads/python.png" alt="Python Logo" width="100" height="100">
 
 
 ## Proyectos Destacados
@@ -38,6 +38,7 @@
 - **Sistema de Recomendación de Películas:** Desarrollo de funciones especializadas y entrenamiento de modelo de Machine Learning. Creación de una aplicación intuitiva y despliegue en entorno de producción para usuarios de plataformas de streaming.
 
 ## Idiomas
+
 
 - Español: Nativo
 - Inglés: Intermedio
